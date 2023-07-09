@@ -1,0 +1,68 @@
+.tag{
+    text-align: center;
+}
+.p { 
+    background: url('https://i.pinimg.com/564x/c4/40/39/c44039a92867a98c7ecbb9005c09b9ed.jpg') no-repeat center / contain ;
+}
+
+.box {
+    text-align: center;
+    animation: slideIn 0.5s ease-in;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid #ffffff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    pointer-events: none;
+}
+
+.name {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.frame {
+    width: 100%;
+    height: 100%;
+}      
+
+.content {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    animation: slideIn 0.5s ease-in;
+}
+.icon-ig{
+    height: 40px;
+    width: 40px;
+    box-shadow: 0 0 5px rgb(248, 86, 86);
+    border-radius: 10px;
+}
+
+.icon-fb{
+    height: 40px;
+    width: 40px;
+    box-shadow: 0 0 5px rgb(70, 70, 221);
+    border-radius: 10px;
+}
+
+.icon-spo{
+    height: 40px;
+    width: 40px;
+    box-shadow: 0 0 5px rgb(0, 255, 42);
+    border-radius: 10px;
+}
+.icon-git{
+    height: 40px;
+    width: 40px;
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+
+
+
+
